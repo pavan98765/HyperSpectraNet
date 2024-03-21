@@ -1,4 +1,4 @@
-# HyperAttention: Enhancing Hyperspectral Image Reconstruction
+# HyperSpectraNet: Enhancing Hyperspectral Image Reconstruction
 
 ## Overview
 
