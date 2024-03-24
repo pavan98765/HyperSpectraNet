@@ -41,11 +41,4 @@ HyperAttention sets new benchmarks in hyperspectral image reconstruction, offeri
 - Interdisciplinary Applications
 - Explainable AI -->
 
-## References
 
-[Link to full paper and references]
-
-For detailed information and code implementation, please refer to our [GitHub repository](link-to-repository).
-
----
-Feel free to visit our [GitHub repository](link-to-repository) for code and more details.
