@@ -2,11 +2,11 @@
 
 ## Overview
 
-HyperAttention is a convolutional neural network (CNN) architecture designed to improve the reconstruction of hyperspectral images (HSI). This model combines spectral and spatial attention mechanisms with Fourier transform interactions to tackle the unique challenges in HSI reconstruction. It has been trained and evaluated on the NTIRE 2022 hyperspectral dataset, showcasing significant advancements in image quality and fidelity.
+HyperSpectraNet is a convolutional neural network (CNN) architecture designed to improve the reconstruction of hyperspectral images (HSI). This model combines spectral and spatial attention mechanisms with Fourier transform interactions to tackle the unique challenges in HSI reconstruction. It has been trained and evaluated on the NTIRE 2022 hyperspectral dataset, showcasing significant advancements in image quality and fidelity.
 
 ## Introduction
 
-Hyperspectral imaging (HSI) captures a broad spectrum of light, enabling applications in various fields. However, spectral reconstruction from limited information is complex. HyperAttention addresses this challenge by integrating spectral and spatial attentions and Fourier transform interactions, leading to accurate HSI reconstruction.
+Hyperspectral imaging (HSI) captures a broad spectrum of light, enabling applications in various fields. However, spectral reconstruction from limited information is complex. HyperSpectraNet addresses this challenge by integrating spectral and spatial attentions and Fourier transform interactions, leading to accurate HSI reconstruction.
 
 ## Key Features
 
@@ -25,11 +25,11 @@ Hyperspectral imaging (HSI) captures a broad spectrum of light, enabling applica
 
 ## Results
 
-HyperAttention outperforms existing methods in both patch and full image evaluation on the NTIRE 2022 dataset. It excels in preserving spatial coherence and spectral fidelity.
+HyperSpectraNet outperforms existing methods in both patch and full image evaluation on the NTIRE 2022 dataset. It excels in preserving spatial coherence and spectral fidelity.
 
 ## Conclusion
 
-HyperAttention sets new benchmarks in hyperspectral image reconstruction, offering enhanced image quality and potential applications across diverse domains.
+HyperSpectraNet sets new benchmarks in hyperspectral image reconstruction, offering enhanced image quality and potential applications across diverse domains.
 
 ## Future Work
 
@@ -41,4 +41,4 @@ HyperAttention sets new benchmarks in hyperspectral image reconstruction, offeri
 - Interdisciplinary Applications
 - Explainable AI -->
 
-    
+
