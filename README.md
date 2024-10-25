@@ -1,5 +1,11 @@
 # HyperSpectraNet: Enhancing Hyperspectral Image Reconstruction
 
+## 📄 Paper
+
+**[HyperSpectraNet: Enhancing Hyperspectral Image Reconstruction - IEEE Publication](https://ieeexplore.ieee.org/abstract/document/10631616?casa_token=ECFm8qbcZeYAAAAA:INflTBvIM47Ik_3_3Xuy2H97KcDFA6NyjU3GMHb10qOX1C7s1PUA4YwifVGGzijoBLELA6zorjKxAw)**
+
+---
+
 ## Overview
 
 HyperSpectraNet is a convolutional neural network (CNN) architecture designed to improve the reconstruction of hyperspectral images (HSI). This model combines spectral and spatial attention mechanisms with Fourier transform interactions to tackle the unique challenges in HSI reconstruction. It has been trained and evaluated on the NTIRE 2022 hyperspectral dataset, showcasing significant advancements in image quality and fidelity.
@@ -40,5 +46,3 @@ HyperSpectraNet sets new benchmarks in hyperspectral image reconstruction, offer
 - Integration with Hardware
 - Interdisciplinary Applications
 - Explainable AI -->
-
-
